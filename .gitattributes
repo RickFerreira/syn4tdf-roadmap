@@ -1,0 +1,4 @@
+# Repositório sempre com LF, independente do core.autocrlf de cada máquina
+* text=auto eol=lf
+*.png binary
+*.jpg binary
