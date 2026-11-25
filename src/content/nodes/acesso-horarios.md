@@ -8,7 +8,7 @@ estimate: 15 min
 links:
   - type: notion
     label: "Informações da Equipe (planilhas de horários)"
-    url: ""
+    url: https://app.notion.com/p/Informa-es-da-Equipe-953e357591e24c6fbf62186fae88202b
 checklist:
   - Preenchi meus horários na planilha do time
   - Tenho na agenda a daily da minha squad e a weekly interna

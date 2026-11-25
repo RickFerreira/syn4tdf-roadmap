@@ -14,7 +14,7 @@ links:
     url: https://labgit.synchro.com.br/componentes/syn4tdf/-/wikis/Acesso-ambiente-OCI-DEV
   - type: notion
     label: "Configurações de Ambiente › Configurando o DBeaver"
-    url: ""
+    url: https://app.notion.com/p/Configura-o-de-Ambiente-de-Desenvolvimento-40ec555d5604800da11bdba24fa52638
 checklist:
   - Eclipse com SAP HANA Tools instalado (versão compatível)
   - Conexões com os schemas de **evolução** e **suporte** do DEV criadas

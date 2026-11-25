@@ -8,7 +8,7 @@ estimate: 15 min
 links:
   - type: notion
     label: "Treinamento › Bem-vindo"
-    url: ""
+    url: https://app.notion.com/p/Bem-vindo-409c555d560480c38cd5f89ce0a4472a
 checklist:
   - Sei quem são meus dois padrinhos
   - Já mandei uma mensagem me apresentando para eles

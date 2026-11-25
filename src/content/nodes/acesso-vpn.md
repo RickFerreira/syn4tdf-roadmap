@@ -8,7 +8,7 @@ estimate: 30 min
 links:
   - type: notion
     label: "Configurações de Ambiente › Configuração Inicial (PDFs Linux/Windows/Mac)"
-    url: ""
+    url: https://app.notion.com/p/Configura-o-de-Ambiente-de-Desenvolvimento-40ec555d5604800da11bdba24fa52638
 checklist:
   - Cisco Secure Client instalado com o perfil da Synchro
   - DUO Mobile configurado no celular

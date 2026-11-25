@@ -8,7 +8,7 @@ estimate: 10 min
 links:
   - type: notion
     label: "Treinamento › Introdução ao Syn4TDF (Bitrix e Zimbra)"
-    url: ""
+    url: https://app.notion.com/p/Introdu-o-ao-Syn4TDF-1a8c555d560481db835fc29be11733d5
 checklist:
   - Sei qual canal usar para dúvidas, para status diário e para pedir revisão de MR
 ---

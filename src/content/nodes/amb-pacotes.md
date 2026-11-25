@@ -11,7 +11,7 @@ links:
     url: https://labgit.synchro.com.br/componentes/syn4tdf/-/wikis/Configura%C3%A7%C3%A3o-de-ambiente-de-desenvolvimento-para-o-Synchro4TDF#pacotes-iniciais-e-git
   - type: notion
     label: "Treinamento › Configuração de Ambiente de Desenvolvimento"
-    url: ""
+    url: https://app.notion.com/p/Configura-o-de-Ambiente-de-Desenvolvimento-40ec555d5604800da11bdba24fa52638
 checklist:
   - "`git --version` funciona e configurei `user.name` e `user.email`"
   - Criei uma pasta única para todos os repositórios do projeto

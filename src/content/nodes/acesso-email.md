@@ -11,7 +11,7 @@ links:
     url: https://webmail.synchro.com.br/
   - type: notion
     label: "Treinamento › Introdução ao Syn4TDF › Zimbra"
-    url: ""
+    url: https://app.notion.com/p/Introdu-o-ao-Syn4TDF-1a8c555d560481db835fc29be11733d5
 checklist:
   - Consigo entrar no webmail com minha conta Synchro
   - Troquei a senha inicial

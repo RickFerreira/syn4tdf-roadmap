@@ -9,6 +9,9 @@ links:
   - type: wiki
     label: "Configuração de ambiente › Dev-tools"
     url: https://labgit.synchro.com.br/componentes/syn4tdf/-/wikis/Configura%C3%A7%C3%A3o-de-ambiente-de-desenvolvimento-para-o-Synchro4TDF#dev-tools
+  - type: Notion
+    label: "Configuração de Ambiente > Dev Tools"
+    url: https://app.notion.com/p/Configura-o-de-Ambiente-de-Desenvolvimento-40ec555d5604800da11bdba24fa52638?pvs=97#40ec555d56048069a260d4c082889d1f
 checklist:
   - rlwrap, Clojure CLI e Babashka instalados
   - "`syn4tdf-dev-tools` clonado e `bb setup <pasta-dos-repos>` executado"

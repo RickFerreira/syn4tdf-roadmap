@@ -8,7 +8,7 @@ estimate: 15 min
 links:
   - type: notion
     label: "Stack Overflow › Não é possível trocar a senha"
-    url: ""
+    url: https://app.notion.com/p/Configura-o-de-Ambiente-de-Desenvolvimento-40ec555d5604800da11bdba24fa52638
 checklist:
   - Tenho usuário no Keycloak (SCSA) e troquei a senha inicial
 ---

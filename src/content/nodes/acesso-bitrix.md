@@ -11,7 +11,7 @@ links:
     url: https://colabore.synchro.com.br/
   - type: notion
     label: "Treinamento › Introdução ao Syn4TDF › Bitrix"
-    url: ""
+    url: https://app.notion.com/p/Introdu-o-ao-Syn4TDF-1a8c555d560481db835fc29be11733d5
 checklist:
   - Consigo entrar no Bitrix
   - Fui adicionado aos grupos de trabalho do Synchro4TDF e da minha squad

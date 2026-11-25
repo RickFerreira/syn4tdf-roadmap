@@ -12,7 +12,7 @@ links:
     url: https://labgit.synchro.com.br/componentes/syn4tdf/-/wikis/Treinamento-Universidades/Tutoriais-Synchro4TDF/API-Gateway
   - type: notion
     label: "Tutoriais Syn4TDF › API Gateway"
-    url: ""
+    url: https://app.notion.com/p/Configura-o-de-Ambiente-de-Desenvolvimento-40ec555d5604800da11bdba24fa52638
 ---
 Por padrão você roda **front (8000) → back**. Quando a tarefa envolve login real, permissões ou auditoria, entra no meio o **API Gateway** (`syn4tdf-api-gateway`, Clojure):
 

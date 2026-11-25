@@ -12,7 +12,7 @@ links:
     url: https://labgit.synchro.com.br/componentes/syn4tdf/-/wikis/Configura%C3%A7%C3%A3o-de-ambiente-de-desenvolvimento-para-o-Synchro4TDF#reports
   - type: notion
     label: "Configurações de Ambiente › Profiles Clojure"
-    url: ""
+    url: https://app.notion.com/p/Configura-o-de-Ambiente-de-Desenvolvimento-40ec555d5604800da11bdba24fa52638
 checklist:
   - Leiningen instalado e `syn4tdf-report` importado no IntelliJ com Cursive
   - "`profiles.clj` criado na raiz do projeto (modelo da wiki)"
