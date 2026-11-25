@@ -12,6 +12,9 @@ links:
   - type: wiki
     label: "Configuração de ambiente › Pacotes iniciais e git (chave SSH)"
     url: https://labgit.synchro.com.br/componentes/syn4tdf/-/wikis/Configura%C3%A7%C3%A3o-de-ambiente-de-desenvolvimento-para-o-Synchro4TDF#pacotes-iniciais-e-git
+  - type: notion
+    label: "Configuração de Ambiente - Pacotes iniciais e git"
+    url: https://app.notion.com/p/Configura-o-de-Ambiente-de-Desenvolvimento-40ec555d5604800da11bdba24fa52638
 checklist:
   - Consigo abrir o projeto, o board e a wiki no labgit (com VPN)
   - Cadastrei minha chave SSH no GitLab
