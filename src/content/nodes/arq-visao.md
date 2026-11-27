@@ -8,7 +8,7 @@ estimate: 45 min
 links:
   - type: notion
     label: "Tutoriais Syn4TDF › Arquitetura do Projeto"
-    url: ""
+    url: "https://app.notion.com/p/Arquitetura-do-Projeto-1a8c555d56048148b102cedc45215866"
   - type: wiki
     label: Home da wiki (diagrama de componentes)
     url: https://labgit.synchro.com.br/componentes/syn4tdf/-/wikis/home

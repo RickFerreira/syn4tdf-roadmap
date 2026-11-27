@@ -14,7 +14,7 @@ links:
     url: https://labgit.synchro.com.br/componentes/syn4tdf/-/wikis/Glossario-Funcional
   - type: notion
     label: "Treinamento › Glossário Funcional"
-    url: ""
+    url: "https://app.notion.com/p/Gloss-rio-Funcional-39dc555d5604809082e5c59501649301"
 checklist:
   - Dei uma passada no glossário e sei onde consultar quando surgir um termo novo
 ---

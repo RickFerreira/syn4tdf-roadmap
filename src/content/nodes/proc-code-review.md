@@ -8,13 +8,13 @@ estimate: 30 min
 links:
   - type: notion
     label: "Code Review › Frontend"
-    url: ""
+    url: https://app.notion.com/p/Frontend-094d386c18244bc39d81671f1119c28a"
   - type: notion
     label: "Code Review › Backend Java"
-    url: ""
+    url: "https://app.notion.com/p/Backend-Java-0315277d441e455fa773a484440902f9"
   - type: notion
     label: "Code Review › Backend Clojure"
-    url: ""
+    url: "https://app.notion.com/p/Backend-Clojure-0a0fcd70f6e140158e96cf4278bb916b"
   - type: wiki
     label: Guia de MRs
     url: https://labgit.synchro.com.br/componentes/syn4tdf/-/wikis/Guia-MRs
