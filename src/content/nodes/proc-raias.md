@@ -14,7 +14,7 @@ links:
     url: https://labgit.synchro.com.br/componentes/syn4tdf/-/wikis/Classificacao-de-Issues
   - type: notion
     label: "Treinamento › Introdução ao Syn4TDF › Raias do GitLab"
-    url: ""
+    url: "https://app.notion.com/p/Introdu-o-ao-Syn4TDF-1a8c555d560481db835fc29be11733d5"
 checklist:
   - Sei para qual raia mover uma issue quando começo, quando abro o MR e quando ele é aprovado
   - Sei usar o Due Date e as labels de "Concluído" (25/50/75%)

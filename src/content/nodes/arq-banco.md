@@ -14,7 +14,7 @@ links:
     url: https://labgit.synchro.com.br/componentes/syn4tdf/-/wikis/Ordem-de-cria%C3%A7%C3%A3o-dos-objetos-do-banco-de-dados.
   - type: notion
     label: "Tutoriais Syn4TDF › Dicas Gerais CVs › Informações ESSENCIAIS de CVs"
-    url: ""
+    url: "https://app.notion.com/p/Dicas-Gerais-CVs-1a8c555d56048176ac9bfba8cb5f98b2"
 checklist:
   - Sei o que é uma Calculation View e por que o projeto usa tantas
   - Conheço as convenções de nome (/SYN/TABELA, /SYN/SEQ_*, V_*)

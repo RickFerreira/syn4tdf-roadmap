@@ -8,10 +8,10 @@ estimate: 15 min
 links:
   - type: notion
     label: "Atas (modelo de reuniões)"
-    url: ""
+    url: "https://app.notion.com/p/Reuni-es-Internas-9905c7cf2edd40a491db7df1745fa0d5"
   - type: notion
     label: TopWeek
-    url: ""
+    url: "https://app.notion.com/p/TopWeek-f0aa5b4df52a45c9b613500847c72af9"
 checklist:
   - Participei da minha primeira weekly
   - Sei como mandar status por escrito quando faltar na daily

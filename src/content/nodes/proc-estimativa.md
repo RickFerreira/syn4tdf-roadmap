@@ -11,7 +11,7 @@ links:
     url: https://labgit.synchro.com.br/componentes/syn4tdf/-/wikis/Estimativa-de-Esfor%C3%A7o-das-Issues
   - type: notion
     label: Planning Poker (exemplos por pontuação)
-    url: ""
+    url: "https://illustrious-ticket-164.notion.site/Planning-Poker-3c3c2df326b74fdabe729930fbeed8fd"
 checklist:
   - Participei (mesmo que só observando) de uma sessão de Planning Poker
 ---

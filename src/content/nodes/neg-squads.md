@@ -11,7 +11,7 @@ links:
     url: https://labgit.synchro.com.br/componentes/syn4tdf/-/wikis/Treinamento-Universidades/Introdu%C3%A7%C3%A3o-ao-Synchro4TDF#squads
   - type: notion
     label: "Treinamento › Introdução ao Syn4TDF (squads e membros)"
-    url: ""
+    url: "https://app.notion.com/p/Introdu-o-ao-Syn4TDF-1a8c555d560481db835fc29be11733d5"
 checklist:
   - Sei qual é a minha squad e quem são os funcionários de referência nela
 ---
